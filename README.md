@@ -9,8 +9,11 @@ As i m learning Dart trying to write simple spyware  in it
 
 ## Detection Screenshots 
 
- # Scanned on Antiscan.me
+
+  
     
-    ![screenshot](Antiscandart.png)
+    
  # Scanned on Avcheck.net
    ![screenshot](Avcheck.PNG)
+
+ 

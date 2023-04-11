@@ -18,5 +18,12 @@ As i m learning Dart trying to write simple spyware  in it
 # Scanned on Antiscan.me
 
  ![screenshot](Antiscandart.png)
+ 
+ 
+ ## TODO
+
+- [ ] Add Persistence Startup
+- [ ] Recovering And Extracting Passwords
+- [ ] Make a Builder
 
 
